@@ -2,7 +2,7 @@
   "name": "crwn-clothing",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://charithra05.github.io/crown-clothing",
+  "homepage": "https://charithra05.github.io/",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.5.0",
